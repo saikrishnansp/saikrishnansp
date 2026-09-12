@@ -3,9 +3,7 @@
 **Full-stack developer working toward DevSecOps automation & architecture.**
 
 - 💻 MERN stack · FastAPI · Next.js
-- 🔭 Currently building a terminal-emulator style, Kali Linux–inspired portfolio site
 - 🔐 Interested in security built into the pipeline, not bolted on after
-- 💼 Associate Consultant @ Kavi India
 - 📫 spsaikrishnan@gmail.com
 
 ---
@@ -35,7 +33,6 @@
   <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/saikrishnansp/saikrishnansp/output/github-snake.svg" />
 </picture>
 
-*(this shows up once the snake workflow's first run finishes)*
 
 ### 🏅 Certifications
 
