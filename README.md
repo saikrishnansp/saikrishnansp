@@ -6,7 +6,7 @@
 - 🔭 Currently building a terminal-emulator style, Kali Linux–inspired portfolio site
 - 🔐 Interested in security built into the pipeline, not bolted on after
 - 💼 Associate Consultant @ Kavi India
-- 📫 YOUR_EMAIL_OR_LINKEDIN_HERE
+- 📫 spsaikrishnan@gmail.com
 
 ---
 
@@ -24,31 +24,27 @@
 
 ### 📊 GitHub Stats
 
-![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=dark&hide_border=true&hide_rank=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=dark&hide_border=true)
+![Sai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saikrishnansp&show_icons=true&theme=dark&hide_border=true&hide_rank=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saikrishnansp&layout=compact&theme=dark&hide_border=true)
 
 ### 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
-  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/saikrishnansp/saikrishnansp/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/saikrishnansp/saikrishnansp/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/saikrishnansp/saikrishnansp/output/github-snake.svg" />
 </picture>
 
-*(this shows up once the snake workflow's first run finishes — see steps below)*
+*(this shows up once the snake workflow's first run finishes)*
 
 ### 🏅 Certifications
 
-Verified badges on Credly → YOUR_CREDLY_PROFILE_URL
+Verified badges on Credly → [credly.com/users/sai-krishnan-s-p](https://www.credly.com/users/sai-krishnan-s-p)
 
 ### 📫 Connect
 
 <div align="center">
-<a href="www.linkedin.com/in/sai-krishnan-sp"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://www.linkedin.com/in/sai-krishnan-sp/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 &nbsp;&nbsp;
 <a href="mailto:spsaikrishnan@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
-&nbsp;&nbsp;
-<a href="Comming soon"><img src="https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F" alt="Portfolio" /></a>
 </div>
-
----
